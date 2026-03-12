@@ -1,4 +1,4 @@
-# Space Invaders
+#👾 Space Invaders 👾
 
 A classic Space Invaders game implementation.
 Cause i love games and evidently i now also love making them. :)
