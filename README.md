@@ -1,4 +1,4 @@
-#👾 Space Invaders 👾
+<h1 align="left">👾 Space Invaders 👾</h1>
 
 A classic Space Invaders game implementation.
 Cause i love games and evidently i now also love making them. :)
